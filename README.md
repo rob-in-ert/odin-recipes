@@ -1,3 +1,3 @@
-In the recipes project I will demonstrate my understanding of and ability to execute basic functions of html tools.
+In the recipes project I will demonstrate my understanding of and ability to execute basic functions of html tools that I hqve learned from TheOdinProject.com.
 I will create a webpage with html5 using various elements, tags, and attributes to format the site itself and the information I present.
 This information will include absolute links, relative links, and images. Some text and images will also contain tags or attributes useful for web searches or screen readers.
