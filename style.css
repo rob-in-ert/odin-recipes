@@ -1,0 +1,17 @@
+.full-page {
+    text-align: center;
+    background-color: rgb(246, 252, 231);
+}
+
+.header {
+    color: darkred;
+    font-size: 75px;
+}
+
+p {
+    font-size: 50px;
+    font-family: cursive, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: darkblue;
+}
